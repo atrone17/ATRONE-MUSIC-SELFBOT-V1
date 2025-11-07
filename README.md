@@ -1,4 +1,4 @@
-# Atroen Music SelfBot v1
+# Atrone Music SelfBot v1
 
 [![Node.js](https://img.shields.io/badge/Node.js-16%2B-green.svg)](https://nodejs.org/)
 [![Discord.js SelfBot](https://img.shields.io/badge/Discord.js%20SelfBot-v13-blue.svg)](https://github.com/discordjs-selfbot/discord.js-selfbot-v13)
@@ -152,7 +152,7 @@ We welcome contributions! Please follow these steps:
 
 **Atrone || Aditya**
 - Discord: @atrone77
-- GitHub: [WannaBecosder(https://github.com/atrone17)
+- GitHub: [WannaBecoder](https://github.com/atrone17)
 - Support Server: [Oblivion Development](https://discord.gg/chillhub)
 
 ## 🙏 Acknowledgments
@@ -180,5 +180,6 @@ We welcome contributions! Please follow these steps:
 **📢 Share responsibly**: Help others discover this project while emphasizing the risks involved.
 
 ---
+
 
 *Tags: discord selfbot, discord music selfbot, youtube music bot, discord.js selfbot, termux music bot, discord music player, youtube to discord, selfbot github, discord music github, nodejs music bot, discord voice channel bot, free music selfbot*, discord music player, youtube to discord, selfbot github, discord music github, nodejs music bot, discord voice channel bot, free music selfbot*
